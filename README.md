@@ -32,16 +32,16 @@ The system supports two main user roles: **Admin** and **Receptionist**, each wi
 ## Database Schema
 The database is designed with a normalized schema for data integrity and efficient management. Key tables and their purposes:
 
-- **LoginUsers**: Stores user credentials and roles (Admin, Receptionist).  
-- **Receptionists**: Contains detailed information about reception staff.  
-- **Departments**: Manages different hospital departments.  
-- **Doctors**: Stores information about doctors.  
-- **Cabins**: Manages cabin details including availability and pricing.  
-- **Patients**: Holds patient demographic information and admission details.  
-- **Appointments**: Tracks scheduled appointments for patients with doctors.  
-- **PatientTests**: Links patients to assigned tests.  
-- **Tests**: Lists all available tests and their prices.  
-- **PatientBills**: Stores all billing and invoice information for patients.  
+- **LoginUsers**: Stores user credentials and roles (Admin, Receptionist).
+- **Receptionists**: Contains detailed information about reception staff.
+- **Departments**: Manages different hospital departments.
+- **Doctors**: Stores information about doctors.
+- **Cabins**: Manages cabin details including availability and pricing.
+- **Patients**: Holds patient demographic information and admission details.
+- **Appointments**: Tracks scheduled appointments for patients with doctors.
+- **PatientTests**: Links patients to assigned tests.
+- **Tests**: Lists all available tests and their prices.
+- **PatientBills**: Stores all billing and invoice information for patients.
 
 ---
 
@@ -54,26 +54,28 @@ To run this project, you will need:
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/dev-mehedi-github/Hospital-management-System.git
+```
 
+2. **Restore the Database:**
+- Open SQL Server Management Studio.
+- Execute the SQL queries provided in the project to create the database schema.
 
-2.*Restore the Database:**
--Open SQL Server Management Studio.
--Execute the SQL queries provided in the project to create the database schema.
+3. **Configure the Connection String:**
+- Open the project in Visual Studio.
+- Update the database connection string in `App.config` to point to your SQL Server instance.
 
-3.*Configure the Connection String:**
--Open the project in Visual Studio.
--Update the database connection string in App.config to point to your SQL Server instance.
+4. **Run the Application:**
+- Build and run the project from Visual Studio.
 
-4.*Run the Application:**
--Build and run the project from Visual Studio.
+---
 
-##Credits
--This project was developed for the CSC2210: Object-Oriented Programming 2 course at the American International University-Bangladesh (AIUB).
+## Credits
+This project was developed for the **CSC2210: Object Oriented Programming 2** course at the **American International University-Bangladesh (AIUB)**.
 
-*Supervised by:**
-Md. Hasibul Hasan
+**Supervised by:**
+Md. Hasibul Hasan  
 Assistant Professor, Department of Computer Science
 
-*Developed by:**
-Hasan, Mehedi
-GitHub Repository
+**Developed by:**
+Hasan, Mehedi  
+[GitHub Repository](https://github.com/dev-mehedi-github/Hospital-management-System.git)

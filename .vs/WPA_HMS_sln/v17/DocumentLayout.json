@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|c:\\users\\aiubs\\desktop\\material\\code\\c#\\0. project\\wpa_hms_sln\\wpa_hms_pro\\uc_rece_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_rece_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_paitentbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_paitentbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_managead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_managead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_manage_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_manage_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_manage_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_manage_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_facilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_adminbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_adminbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_adminbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_adminbills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmaddreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmaddreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmadminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmadminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmadminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmadminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\frmaddreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\frmaddreceptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_managead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_managead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_rece_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_rece_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\wpa_hms_pro\\uc_paitentbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}|WPA_HMS_pro\\WPA_HMS_pro.csproj|solutionrelative:wpa_hms_pro\\uc_paitentbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:42:59.257Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmLogin.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmLogin.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:43:22.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmAdminHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAdminHome.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmAdminHome.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAdminHome.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmAdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:41:51.588Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAdminHome.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAdminHome.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmAdminHome.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAdminHome.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmAdminHome.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:42:07.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmReceptionist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmReceptionist.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmReceptionist.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmReceptionist.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmReceptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:29:44.449Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmReceptionist.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmReceptionist.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmReceptionist.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmReceptionist.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmReceptionist.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:43:54.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAddReceptionist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAddReceptionist.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmAddReceptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:47:50.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmAddReceptionist.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\FrmAddReceptionist.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:11:08.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_AdminBills.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_AdminBills.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_AdminBills.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_AdminBills.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_AdminBills.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T20:02:26.924Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_AdminBills.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_AdminBills.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_AdminBills.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_AdminBills.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_AdminBills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T20:16:22.754Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Facilities.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Facilities.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Facilities.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Facilities.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Facilities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:31:25.564Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Facilities.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Facilities.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Facilities.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Facilities.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Facilities.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwvw8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:31:36.423Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Rece_MAnage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Rece_MAnage.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Rece_MAnage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:09:34.881Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_Rece_MAnage.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Rece_MAnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:10:29.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_Appointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Appointment.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Appointment.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Appointment.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:41:19.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Appointment.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Appointment.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Appointment.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Appointment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:42:24.765Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Manage_Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Manage_Patient.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Manage_Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:02:18.936Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Manage_Patient.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_Manage_Patient.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAwIEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:56:18.004Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_ManageAd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_ManageAd.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_ManageAd.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_ManageAd.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_ManageAd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T06:40:13.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_ManageAd.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_ManageAd.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\UC_ManageAd.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\UC_ManageAd.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\UC_ManageAd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:49:43.763Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uc_PaitentBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Uc_PaitentBill.cs [Design]",
+              "RelativeToolTip": "WPA_HMS_pro\\Uc_PaitentBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:12:16.344Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Uc_PaitentBill.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\Uc_PaitentBill.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwHoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:38:38.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\App.config",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\App.config",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\App.config",
+              "RelativeToolTip": "WPA_HMS_pro\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T10:16:12.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Program.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\Program.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\Program.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T10:17:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\DataAccess.cs",
+              "RelativeDocumentMoniker": "WPA_HMS_pro\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\aiubs\\Desktop\\Material\\Code\\C#\\0. Project\\WPA_HMS_sln\\WPA_HMS_pro\\DataAccess.cs",
+              "RelativeToolTip": "WPA_HMS_pro\\DataAccess.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:57:10.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

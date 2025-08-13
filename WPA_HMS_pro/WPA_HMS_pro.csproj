@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE2BCDE4-F32B-4A07-8F89-764E8C225C8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WPA_HMS_pro</RootNamespace>
+    <AssemblyName>WPA_HMS_pro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="FrmAddReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddReceptionist.Designer.cs">
+      <DependentUpon>FrmAddReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdminHome.Designer.cs">
+      <DependentUpon>FrmAdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReceptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReceptionist.Designer.cs">
+      <DependentUpon>FrmReceptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HMS_DBDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HMS_DBDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC_AdminBills.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminBills.Designer.cs">
+      <DependentUpon>UC_AdminBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Appointment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Appointment.Designer.cs">
+      <DependentUpon>UC_Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Facilities.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Facilities.Designer.cs">
+      <DependentUpon>UC_Facilities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ManageAd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ManageAd.Designer.cs">
+      <DependentUpon>UC_ManageAd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Manage_Patient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Manage_Patient.Designer.cs">
+      <DependentUpon>UC_Manage_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uc_PaitentBill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Uc_PaitentBill.Designer.cs">
+      <DependentUpon>Uc_PaitentBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Rece_MAnage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Rece_MAnage.Designer.cs">
+      <DependentUpon>UC_Rece_MAnage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmAddReceptionist.resx">
+      <DependentUpon>FrmAddReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdminHome.resx">
+      <DependentUpon>FrmAdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReceptionist.resx">
+      <DependentUpon>FrmReceptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminBills.resx">
+      <DependentUpon>UC_AdminBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Appointment.resx">
+      <DependentUpon>UC_Appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Facilities.resx">
+      <DependentUpon>UC_Facilities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ManageAd.resx">
+      <DependentUpon>UC_ManageAd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Manage_Patient.resx">
+      <DependentUpon>UC_Manage_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uc_PaitentBill.resx">
+      <DependentUpon>Uc_PaitentBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Rece_MAnage.resx">
+      <DependentUpon>UC_Rece_MAnage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HMS_DBDataSet.xsc">
+      <DependentUpon>HMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet.xss">
+      <DependentUpon>HMS_DBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet1.xsc">
+      <DependentUpon>HMS_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet1.xss">
+      <DependentUpon>HMS_DBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet10.xsc">
+      <DependentUpon>HMS_DBDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet10.xss">
+      <DependentUpon>HMS_DBDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet11.xsc">
+      <DependentUpon>HMS_DBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet11.xss">
+      <DependentUpon>HMS_DBDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet12.xsc">
+      <DependentUpon>HMS_DBDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet12.xss">
+      <DependentUpon>HMS_DBDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet13.xsc">
+      <DependentUpon>HMS_DBDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet13.xss">
+      <DependentUpon>HMS_DBDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet14.xsc">
+      <DependentUpon>HMS_DBDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet14.xss">
+      <DependentUpon>HMS_DBDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet15.xsc">
+      <DependentUpon>HMS_DBDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet15.xss">
+      <DependentUpon>HMS_DBDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet16.xsc">
+      <DependentUpon>HMS_DBDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet16.xss">
+      <DependentUpon>HMS_DBDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet2.xsc">
+      <DependentUpon>HMS_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet2.xss">
+      <DependentUpon>HMS_DBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet3.xsc">
+      <DependentUpon>HMS_DBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet3.xss">
+      <DependentUpon>HMS_DBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet4.xsc">
+      <DependentUpon>HMS_DBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet4.xss">
+      <DependentUpon>HMS_DBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet5.xsc">
+      <DependentUpon>HMS_DBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet5.xss">
+      <DependentUpon>HMS_DBDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet6.xsc">
+      <DependentUpon>HMS_DBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet6.xss">
+      <DependentUpon>HMS_DBDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet7.xsc">
+      <DependentUpon>HMS_DBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet7.xss">
+      <DependentUpon>HMS_DBDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet8.xsc">
+      <DependentUpon>HMS_DBDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet8.xss">
+      <DependentUpon>HMS_DBDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet9.xsc">
+      <DependentUpon>HMS_DBDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="HMS_DBDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HMS_DBDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HMS_DBDataSet9.xss">
+      <DependentUpon>HMS_DBDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login picture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_picture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reciption.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reciption1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paitent Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Appointment Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+    <None Include="Resources\receptionist1.png" />
+    <None Include="Resources\receptionist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk ico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reception ioc.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
